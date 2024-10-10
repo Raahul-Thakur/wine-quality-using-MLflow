@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahul/Desktop/Project/python%20MLFLOW/mlruns/0/a2b7700e6af3413f860d9b155f905a90/artifacts
+end_time: 1728573571302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2b7700e6af3413f860d9b155f905a90
+run_name: gregarious-koi-523
+run_uuid: a2b7700e6af3413f860d9b155f905a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728573568918
+status: 3
+tags: []
+user_id: rahul

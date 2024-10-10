@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahul/Desktop/Project/python%20MLFLOW/mlruns/0/299af55262074b5f8f23724a87f564aa/artifacts
+end_time: 1728573354098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 299af55262074b5f8f23724a87f564aa
+run_name: agreeable-robin-724
+run_uuid: 299af55262074b5f8f23724a87f564aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728573351783
+status: 3
+tags: []
+user_id: rahul

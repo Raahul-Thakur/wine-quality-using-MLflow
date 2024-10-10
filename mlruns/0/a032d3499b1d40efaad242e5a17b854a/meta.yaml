@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahul/Desktop/Project/python%20MLFLOW/mlruns/0/a032d3499b1d40efaad242e5a17b854a/artifacts
+end_time: 1728573085638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a032d3499b1d40efaad242e5a17b854a
+run_name: vaunted-smelt-650
+run_uuid: a032d3499b1d40efaad242e5a17b854a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728573082458
+status: 3
+tags: []
+user_id: rahul

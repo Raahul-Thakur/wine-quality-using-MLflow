@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahul/Desktop/Project/python%20MLFLOW/mlruns/0/242c3118b1d5458983aad086ce82ec19/artifacts
+end_time: 1728381155873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 242c3118b1d5458983aad086ce82ec19
+run_name: bright-loon-493
+run_uuid: 242c3118b1d5458983aad086ce82ec19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728381153303
+status: 3
+tags: []
+user_id: rahul

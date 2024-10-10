@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahul/Desktop/Project/python%20MLFLOW/mlruns/0/3bf825eca7f646b0a2d54ce7cfa464ba/artifacts
+end_time: 1728380667546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf825eca7f646b0a2d54ce7cfa464ba
+run_name: valuable-cow-587
+run_uuid: 3bf825eca7f646b0a2d54ce7cfa464ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728380664736
+status: 3
+tags: []
+user_id: rahul
